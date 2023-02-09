@@ -1,7 +1,15 @@
 # HyperionDev Data Science Capstone Project - Unsupervised Learning
 
 ### Summary
-The aim of this dataset was to conduct an in-depth Principal Component Analysis (PCA) and cluster analysis of a dataset of arrest data from the United States. This dataset contains statistics on the arrests per 100,000 residents for violent crimes in each of the US states in 1973, alongside the percentage of the population living in urban areas. 
+The aim of this dataset was to conduct an in-depth Principal Component Analysis (PCA) and cluster analysis of a dataset of arrest data from the United States. This dataset contains statistics on the arrests per 100,000 residents for violent crimes in each of the US states in 1973, alongside the percentage of the population living in urban areas.
+
+### Table of Contents
+1. [Summary](#summary)
+1. [Content of Repo](#content-of-repo)
+1. [Installation](#installation)
+1. [Usage](#usage)
+1. [Example Screenshots](#example-screenshots)
+1. [Acknowledgements](#acknowledgements)
 
 ### Content of Repo
 * T51 Compulsory Task 1.ipynb
